@@ -1,0 +1,12 @@
+{
+  "name": "007firstlight",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'static site, no build needed'",
+    "deploy": "npx wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
